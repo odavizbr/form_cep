@@ -3,7 +3,7 @@
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $dbname = "formz";
+    $dbname = "ipi_2";
 
     $conn = mysqli_connect($servername, $username, $password, $dbname);
 
