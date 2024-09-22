@@ -1,8 +1,8 @@
-CREATE DATABASE formz
+CREATE DATABASE ipi_2
    CHARACTER SET utf8mb4
    COLLATE utf8mb4_general_ci;
 
-USE formz;
+USE ipi_2;
 
 CREATE TABLE usuarios (
    Id_Cadastro INT PRIMARY KEY AUTO_INCREMENT,
